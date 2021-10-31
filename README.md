@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+#### I'm a Full-Stack Developer.
+
+##### NOW
+
+- ✨ Working on a full stack project at my company.
+- ⚡️ In my free time - Learning ReactJs and surfing LinkedIn/Twitter for ideas and inspiration!
+- 🎨 Working on my portfolio website.
+- 📺 Watching Vinland Saga.
+
+##### BIO
+
+- 🏢 I'm currently working at **DataGrokr Analytics**
+- ⚙️ I use daily: `.java`, `.js`
+- 🌍 I'm mostly active on **LinkedIn and Twitter**
+- 🌱 Learning all about **Full Stack Development**
+- 💬 Ping me about **Backend Development**, **Design Patterns**, **Frontend Development**, **Open Source**, **Collaboration**
+- 📫 Reach me: [twitter](https://twitter.com/_nikhil10s), [linkedin](https://www.linkedin.com/in/sharmanikhil1100/)
+<!-- - ⚡️ Fun fact: I'm a huge fan of Harry Potter -->
 <!--
-**sharmanikhil1100/sharmanikhil1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
